@@ -1,0 +1,4 @@
+name = "Recursive"
+uuid = "fc5fae30-b76d-11e9-3887-97745c10b3b7"
+authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
+version = "0.1.0"
